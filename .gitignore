@@ -1,0 +1,6 @@
+# Ignore Specific Python file
+classwork1.py
+
+#  Ignore all .txt files
+*.txt
+
